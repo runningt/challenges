@@ -1,0 +1,3 @@
+- read ip data from file
+- query IP using public API https://ipinfo.io/&lt;ip&gt;/geo
+- output json containing histogram of: number of ips per country  (in ISO 3166-1 alpha-3 code)
